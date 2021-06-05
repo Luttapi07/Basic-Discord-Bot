@@ -1,5 +1,15 @@
-# Basic-Discord-Bot
-this is how to make a basic discord bot
+
+<h1> Basic Discord Bot </h1>
+
+This is a basic discord bot fo biginners 
+
+Type { npm i discord.js } in the terminal to donwnload all required files
 
 
-<h> Basic Discord Bot </h>
+
+
+
+  <h1> Command </h2>
+ 
+ 
+ 
